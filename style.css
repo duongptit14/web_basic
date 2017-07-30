@@ -1,0 +1,18 @@
+p {
+	color: red;
+}
+.red-p {
+	color: black;
+}
+#first-p {
+	color: blue;
+}
+p:hover {
+	color: blue;
+}
+.car {
+	color: pink;
+}
+.car, .bike {
+	background-color:  white;
+}
